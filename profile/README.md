@@ -1,6 +1,11 @@
 ## TÓPICOS AVANZADOS EN INGENIERÍA DE SOFTWARE 📌
 
 #  DREAMSHOP
+<p align="center">
+   
+![DREAMSHOP_cloud](https://github.com/user-attachments/assets/2b558c9a-5069-49ab-9096-0ea21afbb305)
+
+</p>
 
 ## EXAMEN 2: MICROSERVICIOS Y SERVERLESS 📋
 
